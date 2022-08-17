@@ -21,6 +21,18 @@
 
 ##
 
+### Ferramentas utilizadas:
+
+<div style="display: inline_block">
+  <img align="center" alt="danilohtml" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="danilohtml" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="danilohtml" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" />
+  <img align="center" alt="danilohtml" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="danilohtml" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+</div>
+
+##
+
 ### Tecnologias que estou estudando:
 
 <div style="display: inline_block">
@@ -32,6 +44,8 @@
 </div>
 
 ##
+
+
 
 ### Redes sociais:
 
